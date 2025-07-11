@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-kamalesh" alt="mr-kamalesh" /></a> </p>
 
-- 🌱 I’m currently learning **Java and relatable frameworks.**
+- 🌱 I’m currently learning **Python and relatable frameworks.**
 
 - 👨‍💻 View My Portfolio [https://kamalesh-r-portfolio.netlify.app/](https://kamalesh-r-portfolio.netlify.app/)
 
