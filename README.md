@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and relatable frameworks.**
 
-- 👨‍💻 View My Portfolio [https://iamkamaleshr.netlify.app/](https://kamalesh-r-portfolio.netlify.app/)
+- 👨‍💻 View My Portfolio [https://iamkamaleshr.netlify.app/](https://iamkamaleshr.netlify.app/)
 
 - 💬 Ask me about **learning**
 
